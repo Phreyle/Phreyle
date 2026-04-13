@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ecc71,100:11998e&height=200&section=header&text=Hua%20Shi%20Lei&fontSize=40&fontColor=ffffff" />
 
-<h1 align="center">🎮 Hua Shi Lei</h1>
 <p align="center">
   Game Developer • Founder of Bathala Studio • Builder of Interactive Worlds
 </p>
