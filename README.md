@@ -27,7 +27,7 @@
 ## 🧠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,unity,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,unity,cs,html,css" />
 </p>
 
 ---
