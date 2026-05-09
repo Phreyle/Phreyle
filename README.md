@@ -9,8 +9,8 @@
 ## 🌿 About Me
 
 * 🎮 Game Developer focused on immersive experiences
-* 🏢 Founder of **Bathala Studio** → https://www.bathalastudio.com/
-* 🌐 Portfolio → https://huashilei-app.vercel.app/
+* 🏢 Founder of **Bathala Studio** → [[Link]](https://www.bathalastudio.com/)
+* 🌐 Portfolio → [[Link]](https://huashilei-app.huashilei2016.workers.dev/)
 * 💡 I love creating games, systems, and creative tech
 
 ---
