@@ -27,16 +27,8 @@
 ## 🧠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,unity,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,unity,cs,html,css,tailwind,cloudflare,workers,sqlite,postgres,git,github,vscode" />
 </p>
-
----
-
-## 🚀 Projects
-
-* 🎮 Games (in development...)
-* 🌐 Personal Website → https://huashilei-app.vercel.app/
-* 🏢 Studio → https://www.bathalastudio.com/
 
 
 ---
@@ -51,8 +43,11 @@
 
 ## 📫 Contact
 
-* 🌐 Portfolio: https://huashilei-app.vercel.app/
-* 🏢 Studio: https://www.bathalastudio.com/
+* 📧 Email: [huashilei2016@gmail.com](mailto:huashilei2016@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/huashilei](https://www.linkedin.com/in/huashilei)
+* 🌐 Portfolio: [huashilei-app.huashilei2016.workers.dev](https://huashilei-app.huashilei2016.workers.dev/)
+* 🏢 Studio: [bathalastudio.com](https://www.bathalastudio.com/)
+* 🎮 Game Project: [anitohara.bathalastudio.com](https://anitohara.bathalastudio.com/)
 
 ---
 
